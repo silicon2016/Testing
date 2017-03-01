@@ -1,3 +1,7 @@
 i have a dog
 cat
+<<<<<<< HEAD
 mouse2
+=======
+mouse1
+>>>>>>> dev
